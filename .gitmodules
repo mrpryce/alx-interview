@@ -1,0 +1,3 @@
+[submodule "0x00-pascal_triangle"]
+	path = 0x00-pascal_triangle
+	url = https://github.com/mrpryce/0x00-pascal_triangle
